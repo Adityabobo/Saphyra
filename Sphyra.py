@@ -1,3 +1,9 @@
+# ----------------------------------------------------------------------------------------------
+# Saphyra - iDDoS Priv8 Tool
+#
+# The iDDoS Protocol is the most massive type of attack
+# This tool can tangodown nasa and more gov websites
+# 
 #
 # author : xdferlesh1  , version 1.0
 # ----------------------------------------------------------------------------------------------
@@ -3409,6 +3415,7 @@ def usage():
 	print "\a"
 print \
 """
+
                                 ,-.
                                ( O_)
                               / `-/
@@ -3523,3 +3530,5 @@ else:
 			t.start()
 		t = MonitorThread()
 		t.start()
+
+	
